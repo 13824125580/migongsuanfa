@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 #define R 7  //行；
 #define C 8  //列；
