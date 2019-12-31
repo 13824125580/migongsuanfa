@@ -30,7 +30,7 @@ int sum=0;
 //输出；
 void Print(int sum)
 {
-        int i;
+    int i;
     printf("迷宫的第%d条路径如下:\n",sum);
     for(i=0;i<=top;i++)
         printf("(%d,%d)->",stack[i][0],stack[i][1]);
